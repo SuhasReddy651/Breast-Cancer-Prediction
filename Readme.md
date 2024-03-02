@@ -1,7 +1,4 @@
-<h1><center>Breast Cancer Prediction Model</center></h1>
-<br>
-<p>Using Decision Tree Classifier</p>
-<be>
+<h1><center>Breast Cancer Prediction Model Using Decision Tree Classifier</center></h1>
 <p><center><a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra">Dataset Link</a></center></p>
 <h2>Dataset Description:</h2>
 <ul>
